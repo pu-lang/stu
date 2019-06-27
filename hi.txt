@@ -1,0 +1,9 @@
+创建hi.txt
+$ git add hi.txt						#增加文件到暂存区
+$ git add ./*							#批量暂存当前目录下所有内容
+$ git status							#查看文件状态
+$ git commit -m "test"				#提交，提交文件到本地仓库
+[master (root-commit) e522732] test
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hi.txt
+$ git status							#查看文件状态
