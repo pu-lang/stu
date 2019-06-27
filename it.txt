@@ -1,0 +1,9 @@
+hello git !
+github
+git checkout .
+git checkout hello.txt
+
+
+$ git add .								#添加当前目录下文件
+$ git commit -m "jttest"					#提交，设置备注
+$ git push –u origin master
